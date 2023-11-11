@@ -1090,6 +1090,9 @@ textarea::placeholder {
 .menu-toggle{
     display: none;
 }
+.menu-container {
+    display: none;
+}
 /* Mobile */
 
 @media screen and (max-width:480px){
