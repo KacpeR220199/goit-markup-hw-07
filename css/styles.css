@@ -1704,7 +1704,7 @@ textarea::placeholder {
         align-items: center;
     }
     .menu-toggle{
-        display: none;
+        display: flex;
     }
     .navigation {
         display: flex;
