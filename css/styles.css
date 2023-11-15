@@ -1356,6 +1356,9 @@ button {
 
     .container-employee {
         margin: 32px 0px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
     }
 
     .acapit {
@@ -1364,7 +1367,6 @@ button {
         line-height: 24px;
         letter-spacing: 0.32px;
         color: #434455;
-        margin: 8px 0 72px;
     }
 
     .acapit-employee {
@@ -1374,7 +1376,6 @@ button {
         line-height: 24px;
         letter-spacing: 0.32px;
         color: #434455;
-        margin: 8px 0 72px;
     }
 
     .social-team {
