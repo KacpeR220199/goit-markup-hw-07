@@ -1080,7 +1080,7 @@ button {
 }
 
 .hamburger-address {
-    padding-top: 80px;
+    padding-top: 284px;
 }
 
 .hamburger-address-list {
@@ -1141,6 +1141,9 @@ button {
     fill: #f4f4f4;
     width: 16px;
     height: 16px;
+}
+.ham-studio{
+    color: #404BBF;
 }
 
 /* ============================ tablet ============================ */
