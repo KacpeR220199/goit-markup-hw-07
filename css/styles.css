@@ -999,6 +999,7 @@ button {
 
 .menu-container-a.is-open {
     transform: translateX(0);
+    overflow: hidden;
 }
 
 .menu-toggle {
